@@ -5,6 +5,8 @@ Generate music! And replace your music nerds in school!
 Back when nuggetcat studies in a nicht-so-gut secondary school for his first two years, there was a cascade of music nerds. Nuggetcat tried his very best to play a piece of music on the recorder, namely F1 theme music, during its music exam. It turned out to be an earrape which was critisized by these music nerds. 
 Pissed by those nerds, nuggetcat duplicated their brains into this program to replace them, with bots. Anyway, this paragraph was typed at midnight so its brain is not really functioning properly, why don't you read the instructions?
 
+Keep in mind. I do not hate people who plays music, but people who brags crazily about it, get replaced by music-generator!! Begone thot :)
+
 ## Installation.
 
 1. Open terminal
