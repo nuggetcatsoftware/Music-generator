@@ -1,0 +1,6 @@
+To-do
+
+1. Add new instruments
+2. Add varying rythmn
+3. Add controllable BPM
+4. Smarter reverb and echo
