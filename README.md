@@ -1,6 +1,6 @@
 # Music-generator
 Generate music! And replace your music nerds in school!
-
+## Note: This project is inactive. You may still contribute, but nuggetcat is working on something else
 ## Synopsis
 Back when nuggetcat studies in a nicht-so-gut secondary school for his first two years, there was a cascade of music nerds. Nuggetcat tried his very best to play a piece of music on the recorder, namely F1 theme music, during its music exam. It turned out to be an earrape which was critisized by these music nerds. 
 Pissed by those nerds, nuggetcat duplicated their brains into this program to replace them, with bots. Anyway, this paragraph was typed at midnight so its brain is not really functioning properly, why don't you read the instructions?
