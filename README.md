@@ -28,4 +28,5 @@ pip install -r requirements.txt
 
 The Exe version of this software can be found in my personal google drive as there is a 25mB limit in Github. (They do be limiting our machine learning potentials innit?)
 
-
+Link:
+https://drive.google.com/file/d/1vmCATsDLy2CLijyzwEbOVJQvMSIrMYR-/view?usp=sharing
