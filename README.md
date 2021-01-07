@@ -24,7 +24,8 @@ pip install -r requirements.txt
 1. Wait for it to run! It took me 18 minutes to run the program once!!
 2. Exe version lazy people, youre gonna have to wait longer than that.
 
-## Files map
-exe: contains the entire exe files for lazy kids to run
-musiclearn: for real supporters of cats
+## Additional
+
+The Exe version of this software can be found in my personal google drive as there is a 25mB limit in Github. (They do be limiting our machine learning potentials innit?)
+
 
